@@ -122,10 +122,11 @@ body {
     color: #f03a17;
     font-weight: bold;
     font-size: 20px;
-    width: 40px;
+    width: 30px;
+    height: 30px;
     text-align: center;
+    border-radius: 5px;
     cursor: pointer;
-    border-radius: 10px;
 }
 
 .modal iframe {
